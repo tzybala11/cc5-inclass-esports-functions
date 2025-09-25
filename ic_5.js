@@ -61,3 +61,8 @@ function findProductById(id) {
 
 console.log(findProductById(101));
 console.log(findProductById(201));
+
+//Step 4
+function lineItemTotal(cartItem) {
+    
+}
